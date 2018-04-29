@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525025059 source:c:\users\invitado01\desktop\proy_pilas\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
