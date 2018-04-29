@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523418422 source:/home/julih/Documents/Programming/C++/OMI/Proy_Noticias/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

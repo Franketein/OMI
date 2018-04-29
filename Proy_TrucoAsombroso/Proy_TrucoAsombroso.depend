@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525036222 source:/home/julih/Documents/Programming/C++/OMI/Proy_TrucoAsombroso/main-truco_asombroso.cpp
+	<iostream>
+	<string>
+

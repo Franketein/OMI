@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509660792 source:/home/julih/Documents/Programming/Courses/C++/OMI/Proy_Cataloguing/main.cpp
+	<iostream>
+	<string>
+

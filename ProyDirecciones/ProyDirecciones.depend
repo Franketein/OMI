@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509753864 source:/home/julih/Documents/Programming/C++/OMI/ProyDirecciones/mainDirecciones.cpp
+	<iostream>
+	<string>
+	<cmath>
+

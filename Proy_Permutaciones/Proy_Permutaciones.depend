@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522569102 source:/home/julih/Documents/Programming/C++/OMI/Proy_Permutaciones/main.cpp
+	<iostream>
+	<cstring>
+

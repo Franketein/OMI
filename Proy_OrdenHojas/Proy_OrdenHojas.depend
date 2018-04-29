@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523079697 source:/home/julih/Documents/Programming/C++/OMI/Proy_OrdenHojas/main.cpp
+	<iostream>
+	<algorithm>
+

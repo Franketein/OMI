@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520476944 source:/home/julih/Documents/Programming/C++/OMI/Proy_CajasDulces/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

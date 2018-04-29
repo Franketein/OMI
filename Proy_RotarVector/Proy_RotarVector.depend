@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524857405 source:/home/julih/Documents/Programming/C++/OMI/Proy_RotarVector/main.cpp
+	<iostream>
+	<vector>
+

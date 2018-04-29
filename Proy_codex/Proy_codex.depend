@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509154790 source:/home/julih/Documents/Programming/Courses/C++/OMI/Proy_codex/main.cpp
+	<iostream>
+	<string>
+
+1509155457 source:/home/julih/Documents/Programming/C++/OMI/Proy_codex/main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

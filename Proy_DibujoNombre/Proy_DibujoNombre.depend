@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508977594 source:/home/julih/Documents/Programming/Courses/C++/OMI/Proy_DibujoNombre/main.cpp
+	<iostream>
+	<string>
+

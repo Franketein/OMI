@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512248725 source:/home/julih/Documents/Programming/C++/OMI/Proy_Fibonacci/main.cpp
+	<iostream>
+	<cassert>
+

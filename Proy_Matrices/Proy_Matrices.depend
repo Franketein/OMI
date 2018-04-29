@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521667034 source:/home/julih/Documents/Programming/C++/OMI/Proy_Matrices/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

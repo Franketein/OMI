@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512707838 source:/home/julih/Documents/Programming/C++/OMI/Proy_CuerposCelestes/main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523496760 source:/home/julih/Documents/Programming/C++/OMI/Proy_MuddyCity/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

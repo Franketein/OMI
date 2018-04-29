@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518375890 source:/home/julih/Documents/Programming/C++/OMI/Proy_NumDigitos/main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

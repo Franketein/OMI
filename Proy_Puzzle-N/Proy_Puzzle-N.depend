@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518883972 source:/home/julih/Documents/Programming/C++/OMI/Proy_Puzzle-N/main.cpp
+	<iostream>
+	<vector>
+

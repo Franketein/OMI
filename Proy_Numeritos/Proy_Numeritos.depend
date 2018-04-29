@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520144417 source:/home/julih/Documents/Programming/C++/OMI/Proy_Numeritos/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523582921 source:/home/julih/Documents/Programming/C++/OMI/Proy_triples/main.cpp
+	<iostream>
+	<vector>
+

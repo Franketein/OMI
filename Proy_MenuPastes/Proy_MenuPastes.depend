@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520474624 source:/home/julih/Documents/Programming/C++/OMI/Proy_MenuPastes/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,2 @@
+Peor caso serían largo de A por 2 (largoA * 2) veces
+Mejor caso serían 2 veces

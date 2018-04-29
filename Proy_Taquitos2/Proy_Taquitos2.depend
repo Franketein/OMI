@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524109673 source:/home/julih/Documents/Programming/C++/OMI/Proy_Taquitos2/main.cpp
+	<iostream>
+	<vector>
+
