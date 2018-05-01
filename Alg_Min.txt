@@ -1,0 +1,12 @@
+El divisor comun es menor o igual que el mas pequeno de los 2 enteros
+
+min (a, b) regresa el mas pequeno de a y b
+
+Algoritmo min(a, b)
+//Este algoritmo recibe dos enteros, a y b
+//Regresa el menor de a y b
+
+SI a >= b
+	regresa b
+SINO
+	regresa a

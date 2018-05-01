@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525136155 source:/home/julih/Documents/Programming/C++/OMI/Proy_Minecraft/main.cpp
+	<iostream>
+	<queue>
+

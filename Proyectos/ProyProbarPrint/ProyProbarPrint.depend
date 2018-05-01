@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491076789 source:c:\users\invitado01\desktop\julian\proyprobarprint\probarprint.cpp
+	<iostream>
+	<vector>
+

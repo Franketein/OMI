@@ -39,45 +39,50 @@ int main()
 
     queue<casilla> Q;
     Q.push(mapa[origenfila][origencol]);
-    while (!Q.empty())
+    while (!Q.empty() && Q.front().dia <= K)
     {
         casilla actual = Q.front();
         Q.pop();
         int fila = actual.fil;
         int col = actual.colu;
         int hoy = actual.dia;
-        if (fila == origenfila && col == origencol)
-        {
-            //Hoa
-        }
-        else
-            mapa[fila][col].valor = (char)hoy;
+        if (fila != origenfila || col != origencol)
+            mapa[fila][col].valor = '*';
+
         //Este
         if (col + 1 < C && mapa[fila][col+1].valor == '.')
         {
-            mapa[fila][col+1].dia = hoy++;
+            hoy++;
+            mapa[fila][col+1].dia = hoy;
             Q.push(mapa[fila][col+1]);
+            hoy--;
         }
 
         //Sur
         if (fila + 1 < R && mapa[fila+1][col].valor == '.')
         {
-            mapa[fila+1][col].dia = hoy++;
+            hoy++;
+            mapa[fila+1][col].dia = hoy;
             Q.push(mapa[fila+1][col]);
+            hoy--;
         }
 
         //Oeste
         if (col - 1 >= 0 && mapa[fila][col-1].valor == '.')
         {
-            mapa[fila][col-1].dia = hoy++;
+            hoy++;
+            mapa[fila][col-1].dia = hoy;
             Q.push(mapa[fila][col-1]);
+            hoy--;
         }
 
         //Norte
         if (fila - 1 >= 0 && mapa[fila-1][col].valor == '.')
         {
-            mapa[fila-1][col].dia = hoy++;
+            hoy++;
+            mapa[fila-1][col].dia = hoy;
             Q.push(mapa[fila-1][col]);
+            hoy--;
         }
     }
 

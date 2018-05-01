@@ -1,0 +1,13 @@
+Algoritmo divisorComunInef (a, b)
+//Determina el divisor comun maximo de a y b
+//Entrada: a, b enteros
+//Salida dcm
+
+tentativo <-- min (a, b)
+
+Ciclo empieza
+SI a%tentativo == 0
+	SI b%tentativo == 0
+		regresa tentativo
+Ciclo termina
+///Como se hace el ciclo idea: mientras tentativo >= 1

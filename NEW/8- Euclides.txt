@@ -1,0 +1,7 @@
+El algoritmo de Euclides sirve para sacar el máximo común divisor de dos números y funciona de esta manera:
+
+1) Dados dos segmentos (números) AB y CD (siendo AB mayor que CD) se divide AB entre CD tantas veces como se pueda. Si no hay residuo CD es el resultado final.
+
+2) En cambio si se obtiene un residuo EA, se repite el proceso ahora dividiendo CD entre EA cuantas veces se pueda. Como antes, si no hay residuo entendemos que EA es la medida que buscamos.
+
+3) Este proceso se repite hasta que no haya un residuo, entonces el último residuo obtenido será el resultado

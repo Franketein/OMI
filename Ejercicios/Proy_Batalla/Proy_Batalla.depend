@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502912868 source:/home/julih/Documents/OMI/Ejercicios/Proy_Batalla/main.cpp
+	<iostream>
+	<vector>
+

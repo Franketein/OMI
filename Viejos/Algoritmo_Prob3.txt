@@ -1,0 +1,7 @@
+Primero almacenar el número de filas y columnas del cuadro, el número de agujeros y la posición de los mismos.
+
+Simular el cuadro y los espacios recortados mediante un array.
+
+Empezar a formar cuadrados con los espacios libres y almacenar el tamaño de cada uno de ellos, para después poder compararlos y decidir cuál es el más grande.
+
+Imprimir a la pantalla el tamaño del cuadro más grande de los formados en el paso anterior.

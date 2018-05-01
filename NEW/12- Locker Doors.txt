@@ -1,0 +1,10 @@
+En este problema en el caso de que haya 100 casilleros al finalizar se puede observar que sólo 10 casilleros quedarán abiertos.
+
+Esto es debido a que los únicos casilleros que no quedan cerrados son los que tienen un número impar de divisores, es decir los que números cuadrados: 1² = 1, 2² = 4, etc.
+
+Entonces podemos saber que los casilleros que quedarán abiertos son todos aquellos resultados de un número elevado a su cuadrdado, y que obviamente sea menor o igual al número total de casilleros.
+
+Ejemplo:
+
+Si hay 100 casilleros, los que quedan abiertos al finalizar son: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100
+Debido a que son los resultados de 1², 2², 3², 4², 5², 6², 7², 8², 9² y 10²

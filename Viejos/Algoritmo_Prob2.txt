@@ -1,0 +1,19 @@
+Para empezar le pedimos al usuario un número "N" y lo almacenamos en una variable dde tipo "string".
+
+Después dividimos el número y almacenamos cada dígito en un array.
+	Ejemplo: N=1978 --> 1,9,7,8
+
+También localizamos la posición de los dos mayores dígitos dentro de este array.
+	Ejemplo: 1,9,7,8 -- mayPos = 1 && segundamayPos = 3
+
+Ya que tenemos la posición de tanto el mayor como el segundo mayor dígito lo que hacemos es lo siguiente:
+
+	1) Agarramos el segundo mayor dígito, lo "movemos" a la primera posición del array y a su vez 		recorremos los demás dígitos una posición a la "derecha".
+		Ejemplo: 1,9,7,8 --> 8,1,9,7 (movimos el segundo mayor dígito (8) al principio)
+
+	2) Ahora tenemos que repetir el mismo proceso pero con el mayor dígito, hay que tener en 		cuenta que ya que movimos la posición de los dígitos en el paso anterior ahora tenemos que 		utilizar la nueva posición del mayor dígito (utilizando el ejemplo anterior: el 9 estaba en 	la posición 1 originalmente y después del "paso 1" se encuentra en la posición 2).
+		Ejemplo: 8,1,9,7 --> 9,8,1,7 (se mueve a la posición 0 y se recorren los demás)
+
+	3) Ya que se hayan movido los dós números unimos todos los dígitos del array para formar el 	resultado final e imprimimos este a la pantalla.
+		Ejemplo: 9,8,1,7 --> 9817
+

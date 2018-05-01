@@ -1,0 +1,15 @@
+Entrada: Array[0...n-1] de números
+Salida: La distancia mínima entre dos de sus elementos
+
+min <-- inf
+for (i <-- 0 a n-1)
+{
+	for (j <-- 0 a n-1)
+	{
+		if (i != j && |A[i]-A[j]| < min)
+		{
+			min <-- |A[i] - A[j]|
+		}
+	}	
+}
+return min

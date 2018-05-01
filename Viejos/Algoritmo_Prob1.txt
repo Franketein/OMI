@@ -1,0 +1,18 @@
+Primero que nada hay que pedirle al usuario que introduzca un número y almacenar este en una variable "N".
+
+Después hay que obtener N factorial, lo cual se hace multiplicando todos los números de 1 a N; operación que podría realizarse mediante un ciclo "for".
+	Ejemplo: N=5 -- N! = 1x2dx3x4x5=120
+
+Ya que se tiene N! ahora pasamos a la parte más complicada que es determinar en cuántos multiplicadores primos se puede descomponer. Para realizar esto podemos hacer lo siguiente:
+	
+	1) Dividir N! entre el número primo de menor valor (para empezar 2) y si el residuo es cero, 	 entonces sumamos uno al contador de multiplicadores (contador++). 
+
+	2) En caso de que el residuo no sea cero, se trata con el siguiente número primo hasta que 		sea posible realizar una división sin decimales.
+
+	3) Este proceso se realizará hasta que el resultado de la división sea uno, esto quiere decir 		que ya no podemos descomponer más a nuestro número y entonces sabes que: el número total de 	multiplicadores primos en los que se puede descomponer N! es igual a "contador".
+
+	2.5) Para encontrar el siguiente número primo, como se requiere en el paso 2, tenemos que 	  		buscar el número de menor valor que sólo sea divisible entre si mismo y entre 1, y que además 		sea mayor que el número primo con el que ya se contaba.
+
+		Ejemplo: Si actualmente estamos probando el 2  como número primo y necesitamos saber el 		que le sigue buscamos el menor número que sea mayor de dos y que cumpla con las 		  			propiedades de un número primo, como resultado obtendríamos el "3", ya que, es mayor que 			2 y solo se puede dividir entre 1 y entre si mismo.
+
+	4) Para finalizar simplemente imprimimos en la pantalla la variable "contador".

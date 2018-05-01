@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492208234 source:j:\omi\proyguessthenumber\guess.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

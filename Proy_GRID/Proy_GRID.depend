@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525133670 source:/home/julih/Documents/Programming/C++/OMI/Proy_GRID/main.cpp
+	<iostream>
+	<queue>
+

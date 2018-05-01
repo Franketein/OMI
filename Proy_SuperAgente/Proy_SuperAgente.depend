@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525210100 source:/home/julih/Documents/Programming/C++/OMI/Proy_SuperAgente/main-superagente.cpp
+	<iostream>
+	<vector>
+	<queue>
+

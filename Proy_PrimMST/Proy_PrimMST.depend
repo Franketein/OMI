@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525144747 source:/home/julih/Documents/Programming/C++/OMI/Proy_PrimMST/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

@@ -11,6 +11,9 @@ class estado
 };
 
 estado valores[99999];
+//Son exactamente 99999 porque los resultados se dan en % 100,000
+//Por lo que no son tantos resultados posibles
+//Y pues si es viable guardarlos todos en un arreglo
 
 int main()
 {
@@ -18,17 +21,19 @@ int main()
     {
         valores[i].value = i;
     }
+    //Este ciclo es solo para asignar a los estados el valor que les corresponde
 
     int mainKey;
     int lock;
     cin >> mainKey >> lock;
+    //numero inicial y objetivo
     int N;
     cin>>N;
     int keys[N];
-    //keys[0].value = mainKey.value;
     for (int i = 0; i<N; i++)
     {
         cin>>keys[i];
+        //Lista de posibles números para multiplicar
     }
 
     vector<estado> Q;

@@ -1,0 +1,4 @@
+Discriminante (d) = b * b - 4 * a * c
+Si el discriminante es menor a cero (d < 0) entonces no hay raices reales
+Si el discriminante es igual a cero (d = 0) entonces el resultado de la ecuación es igual a -b/(2*a)
+En caso contrario las raices son: [-b + sqrt(d)]/(2*a) y [-b - sqrt(d)]/(2*a)

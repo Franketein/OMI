@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525199414 source:/home/julih/Documents/Programming/C++/OMI/Proy_Canales/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

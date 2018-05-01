@@ -1,0 +1,3 @@
+En una figura como la de la imagen: "icosian.png" es posible trazar una ruta que pase por todos los vértices y donde el punto de inicio es el mismo que el punto final, de la siguiente manera:
+
+Primero establecemos como punto de inicio a F, después vamos a G, B, C y a D. De ahí "subimos" a M, de donde continuamos con N, P, Q, Z, X, H, J. Ahora seguimos con el vértice V, después con W, R, S y T. Para finalizar nos movemos a L, K y finalmente a F, que es donde empezamos. 

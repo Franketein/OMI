@@ -1,0 +1,222 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 8659>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 10.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 37.02 Tm 0 Tr ( 1  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 37.02 Tm 0 Tr (#include <iostream>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 48.36 Tm 0 Tr ( 2  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.70 Tm 0 Tr ( 3  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 59.70 Tm 0 Tr (using namespace ) Tj  ET Q
+q 0.000 0.443 0.000 rg BT 1 0 0 -1 148.35 59.70 Tm 0 Tr (std) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 166.35 59.70 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 71.04 Tm 0 Tr ( 4  ) Tj  ET Q
+1.000 1.000 0.867 rg
+52.35 62.37 12.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 52.35 71.04 Tm 0 Tr (/*) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 82.37 Tm 0 Tr ( 5  ) Tj  ET Q
+52.35 73.70 12.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 82.37 Tm 0 Tr (  ) Tj  ET Q
+1.000 1.000 0.867 rg
+64.35 73.70 426.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 64.35 82.37 Tm 0 Tr (El objetivo es escribir un programa para resolver un problema complejo.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.71 Tm 0 Tr ( 6  ) Tj  ET Q
+52.35 85.04 12.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.71 Tm 0 Tr (  ) Tj  ET Q
+1.000 1.000 0.867 rg
+64.35 85.04 414.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 64.35 93.71 Tm 0 Tr (Iniciamos con una tarea sencilla. Para los que ya saben resolver esto) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 105.05 Tm 0 Tr ( 7  ) Tj  ET Q
+52.35 96.38 12.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 105.05 Tm 0 Tr (  ) Tj  ET Q
+1.000 1.000 0.867 rg
+64.35 96.38 450.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 64.35 105.05 Tm 0 Tr (solamente sigan la secuencia. Para pasado mañana habrá retos mas, mucho mas) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 116.39 Tm 0 Tr ( 8  ) Tj  ET Q
+52.35 107.72 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 116.39 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 0.867 rg
+70.35 107.72 444.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 70.35 116.39 Tm 0 Tr (interesantes. Programas como los de esta serie desarrollan la habilidad de) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.73 Tm 0 Tr ( 9  ) Tj  ET Q
+52.35 119.06 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.73 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 0.867 rg
+70.35 119.06 300.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 70.35 127.73 Tm 0 Tr (escribir programas con iteraciones. Iniciamos con:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 139.07 Tm 0 Tr (10  ) Tj  ET Q
+52.35 130.40 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 139.07 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 0.867 rg
+70.35 130.40 456.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 70.35 139.07 Tm 0 Tr (Problema: Escribe un programa que usa solamente dos instrucciones de salida;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 150.41 Tm 0 Tr (11  ) Tj  ET Q
+52.35 141.74 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 150.41 Tm 0 Tr (   ) Tj  ET Q
+1.000 1.000 0.867 rg
+70.35 141.74 384.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 70.35 150.41 Tm 0 Tr (cout << simboloDib y cout << "\\n"; para producir la linea #####.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.74 Tm 0 Tr (12  ) Tj  ET Q
+1.000 1.000 0.867 rg
+52.35 153.07 12.00 11.34 re f q 0.416 0.000 0.000 rg BT 1 0 0 -1 52.35 161.74 Tm 0 Tr (*/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 173.08 Tm 0 Tr (13  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 173.08 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 164.41 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 173.08 Tm 0 Tr (main) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 173.08 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 184.42 Tm 0 Tr (14  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 184.42 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.76 Tm 0 Tr (15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.76 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.443 0.000 rg BT 1 0 0 -1 64.35 195.76 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+106.35 187.09 66.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 106.35 195.76 Tm 0 Tr (simbDibujo ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 195.76 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 184.35 195.76 Tm 0 Tr ("#") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 202.35 195.76 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 207.10 Tm 0 Tr (16  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 207.10 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 64.35 207.10 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+88.35 198.43 60.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 88.35 207.10 Tm 0 Tr (dimension ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 207.10 Tm 0 Tr (= ) Tj  ET Q
+q 0.404 0.114 0.094 rg BT 1 0 0 -1 160.35 207.10 Tm 0 Tr (5) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 166.35 207.10 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 218.44 Tm 0 Tr (17  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 218.44 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 64.35 218.44 Tm 0 Tr (for) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 82.35 218.44 Tm 0 Tr (\() Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 88.35 218.44 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+112.35 209.77 54.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 218.44 Tm 0 Tr (contador ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 166.35 218.44 Tm 0 Tr (= ) Tj  ET Q
+q 0.404 0.114 0.094 rg BT 1 0 0 -1 178.35 218.44 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 184.35 218.44 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+196.35 209.77 54.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 218.44 Tm 0 Tr (contador ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 250.35 218.44 Tm 0 Tr (<= ) Tj  ET Q
+1.000 1.000 1.000 rg
+268.35 209.77 54.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 268.35 218.44 Tm 0 Tr (dimension) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 322.35 218.44 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+334.35 209.77 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 334.35 218.44 Tm 0 Tr (contador) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 382.35 218.44 Tm 0 Tr (++\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.78 Tm 0 Tr (18  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.78 Tm 0 Tr (  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 64.35 229.78 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 241.11 Tm 0 Tr (19  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 241.11 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.443 0.000 rg BT 1 0 0 -1 76.35 241.11 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 241.11 Tm 0 Tr (<<  ) Tj  ET Q
+1.000 1.000 1.000 rg
+130.35 232.44 60.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 130.35 241.11 Tm 0 Tr (simbDibujo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 190.35 241.11 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 252.45 Tm 0 Tr (20  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 252.45 Tm 0 Tr (  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 64.35 252.45 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.79 Tm 0 Tr (21  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.79 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.443 0.000 rg BT 1 0 0 -1 64.35 263.79 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 94.35 263.79 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 112.35 263.79 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 263.79 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 275.13 Tm 0 Tr (22  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 275.13 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 64.35 275.13 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 0.404 0.114 0.094 rg BT 1 0 0 -1 106.35 275.13 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 112.35 275.13 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 286.47 Tm 0 Tr (23  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 286.47 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.81 Tm 0 Tr (24  ) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 4)
+/CreationDate (D:20170320194605)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000008807 00000 n 
+0000009089 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000008896 00000 n 
+0000008995 00000 n 
+0000009203 00000 n 
+0000009234 00000 n 
+0000009341 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+9444
+%%EOF

@@ -1,0 +1,23 @@
+Para saber la representación binaria de un entero positivo "N" hacemos lo siguiente:
+Ejemplo: N = 17
+	
+1) Dividimos N entre 2 y anotamos el residuo:
+	Ejemplo: 17 entre 2 = 8 y sobra 1, anotamos
+	Nota: 1
+
+2) El cociente de la operación anterior lo dividimos entre 2 y anotamos el residuo
+	Ejemplo: 8 entre 2 = 4 y sobran 0, anotamos
+	Nota: 1, 0
+
+3) Repetimos este procedimiento sin dejar de anotar los residuos hasta que sea imposible seguir dividiendo y al
+   finalizar anotamos también el último cociente obtenido 
+	Ejemplo: 4 entre 2 = 2 sobran 0, anotamos; 2 entre 2 = 1 y sobran 0, anotamos; 1 entre 2 no se puede,
+	 anotamos el 1
+	Nota: 1, 0, 0, 0, 1
+
+4) Ahora escribimos todos los residuos anotados pero en el orden inverso al que fueron obtenidos
+	Ejemplo: 1, 0, 0, 0, 1 --> 1 0 0 0 1 (en este ejemplo no se nota pero si fuera 1, 1, 0, 1 --> 1 0 1 1)
+
+5) Listo, ya tenemos nuestro número N en binario
+	Ejemplo: 17 --> 1 0 0 0 1
+	

@@ -1,0 +1,5 @@
+Euler determinó, en el contexto del problema, que los puntos intermedios de un recorrido posible necesariamente han de estar conectados a un número par de líneas. En efecto, si llegamos a un punto desde alguna línea, entonces el único modo de salir de ese punto es por una línea diferente. Esto significa que tanto el punto inicial como el final serían los únicos que podrían estar conectados con un número impar de líneas. Sin embargo, el requisito adicional del problema dice que el punto inicial debe ser igual al final, por lo que no podría existir ningún punto conectado con un número impar de líneas.
+
+En particular, como en este diagrama los cuatro puntos poseen un número impar de líneas incidentes (tres de ellos inciden en tres líneas, y el restante incide en cinco), entonces se concluye que es imposible definir un camino con las características buscadas que son los 7 puentes de Königsberg.
+
+Fuente: Wikipedia.org
